@@ -8,4 +8,11 @@ The player then learn ways to identify the creature they are inspecting (holding
 If they get a feature wrong, they are shown the correct answer and facts about the organism are displayed once the creature is identified.
 Once the creature is identified, they are placed in a testing jar where players are quizzed along with a fact card to determine stream health.
 Wrong answers explain why.
-A stream health score is displayed, 
+A stream health score is displayed.
+
+## Technology
+This project is using the Godó Hands repo as a base. Full XR and passthrough.
+[Hands](https://github.com/skooter500/hands)
+
+## Developers / Team
+Zsolt Hevesi
