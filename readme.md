@@ -15,4 +15,4 @@ This project is using the Godó Hands repo as a base. Full XR and passthrough.
 * [Hands](https://github.com/skooter500/hands)
 
 ## Developers / Team
-- Zsolt Hevesi
+- Zsolt Hevesi C22387231
